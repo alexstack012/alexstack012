@@ -28,9 +28,11 @@ A cross-browser extension for job application form automation. Detects form fiel
 
 [Chrome Web Store](https://chromewebstore.google.com/detail/stackapply/pmbednfckdcfdkceghlabjccinicomnp) · Also available on [Firefox] (https://addons.mozilla.org/en-US/firefox/addon/stackapply/)
 
+<img src="assets/images/Screenshot.png" alt="StackApply scanning and autofilling a job application form with its browser extension panel open" width="762">
+
 ### CrumbWarden
 
-**Live product · Private source · 650+ users**
+**Live product · Private source · 600+ users**
 
 A privacy-focused browser extension for ad and tracker blocking, cookie consent automation, and website-specific protection controls. Uses a local-first architecture with no external data collection.
 
@@ -52,7 +54,7 @@ A full-stack campaign-management application with authenticated editor workflows
 
 ### Nix
 
-An AI developer tool focused on local AI integration and agentic workflows.
+An AI developer tool focused on local AI integration and agentic workflows. This is in a very early prototype stage that is still in development. Nix is used to be a local AI coding agent to assist with my everyday coding.
 
 **Engineering focus:** Local model integration, tool permissions, and security controls for agent workflows.
 
