@@ -12,7 +12,7 @@ I'm also the founder of **Full Stack Innovations LLC**, where I develop and main
 
 ## Engineering experience
 
-- **Enterprise Software Engineering:** Built and maintained full-stack applications at Centene, Outspoke and Doran Jones, including reusable components, API integrations, validation workflows, and role-based functionality while staying in compliance with best practices, HIPPA and international regulations.
+- **Enterprise Software Engineering:** Built and maintained enterprise applications at Centene, Outspoke, and Doran Jones, developing reusable components, API integrations, validation workflows, and role-based functionality within regulated business environments.
 - **Test efficiency:** Reduced runtime by approximately **40%** in a suite of **6,000+ unit tests** at Centene by removing duplicate and unused tests, refining flaky tests, while increasing code coverage.
 - **Production delivery:** Shipped browser extensions across **five browser targets and two distribution builds**, handling differences in APIs, permissions, storage, packaging, and release workflows.
 
@@ -26,7 +26,7 @@ A cross-browser extension for job application form automation. Detects form fiel
 
 **Engineering focus:** WebExtension APIs, reusable field detection, local-first data, cross-browser compatibility, and release QA.
 
-[Chrome Web Store](https://chromewebstore.google.com/detail/stackapply/pmbednfckdcfdkceghlabjccinicomnp) · Also available on [Firefox] (https://addons.mozilla.org/en-US/firefox/addon/stackapply/)
+[Chrome Web Store](https://chromewebstore.google.com/detail/stackapply/pmbednfckdcfdkceghlabjccinicomnp) · Also available on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/stackapply/)
 
 <img src="assets/images/Screenshot.png" alt="StackApply scanning and autofilling a job application form with its browser extension panel open" width="762">
 
@@ -38,7 +38,7 @@ A privacy-focused browser extension for ad and tracker blocking, cookie consent 
 
 **Engineering focus:** Declarative network request filtering, browser security and permissions, local storage, configurable privacy controls, and cross-browser releases.
 
-[Chrome Web Store](https://chromewebstore.google.com/detail/crumbwarden/kapdihhclmdnakebaanlfcoonimflkal) · Also available on [Firefox] (https://addons.mozilla.org/en-US/firefox/addon/crumbwarden/)
+[Chrome Web Store](https://chromewebstore.google.com/detail/crumbwarden/kapdihhclmdnakebaanlfcoonimflkal) · Also available on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/crumbwarden/)
 
 <img src="assets/images/crumbwarden.png" alt="CrumbWarden extension showing protection, cookie handling, and popup controls" width="360">
 
@@ -52,11 +52,11 @@ A full-stack campaign-management application with authenticated editor workflows
 
 <img src="assets/images/ttca.png" alt="Tabletop Campaign Archive landing page with campaign access and a read-only demonstration" width="900">
 
-### Nix
+### Nix — AI Developer Assistant (Early Development)
 
-An AI developer tool focused on local AI integration and agentic workflows. This is in a very early prototype stage that is still in development. Nix is used to be a local AI coding agent to assist with my everyday coding.
+A TypeScript-based AI coding assistant designed to integrate local language models with repository-aware development tools. The project explores agentic workflows, controlled command execution, task-scoped permissions, and secure interactions with local development environments.
 
-**Engineering focus:** Local model integration, tool permissions, and security controls for agent workflows.
+**Engineering focus:** Local LLM integration, tool orchestration, permission enforcement, command authorization, and security-focused agent architecture.
 
 ## Technologies
 
