@@ -8,11 +8,11 @@ I'm a software engineer with nearly five years of professional experience develo
 
 My primary expertise is Angular, TypeScript, and JavaScript, with additional experience building REST APIs, PostgreSQL-backed applications, and testing infrastructure.
 
-I'm also the founder of **Full Stack Innovations LLC**, where I develop and maintain production applications, browser extensions, and AI-powered developer tools. I own the work from architecture and implementation through QA, deployment, and production support.
+I'm also the founder of **Full Stack Innovations LLC**, where I develop and maintain production applications, browser extensions, Custom web applications and AI-powered developer tools. I own the work from architecture and implementation through QA, deployment, and production support. 
 
 ## Engineering experience
 
-- **Enterprise frontend development:** Built and maintained Angular applications at Centene and Doran Jones, including reusable components, API integrations, validation workflows, and role-based functionality for a global financial services application.
+- **Enterprise Software Engineering:** Built and maintained full-stack applications at Centene, Outspoke and Doran Jones, including reusable components, API integrations, validation workflows, and role-based functionality while staying in compliance with best practices, HIPPA and international regulations.
 - **Test efficiency:** Reduced runtime by approximately **40%** in a suite of **6,000+ unit tests** at Centene by removing duplicate and unused tests, refining flaky tests, while increasing code coverage.
 - **Production delivery:** Shipped browser extensions across **five browser targets and two distribution builds**, handling differences in APIs, permissions, storage, packaging, and release workflows.
 
@@ -26,7 +26,7 @@ A cross-browser extension for job application form automation. Detects form fiel
 
 **Engineering focus:** WebExtension APIs, reusable field detection, local-first data, cross-browser compatibility, and release QA.
 
-[Chrome Web Store](https://chromewebstore.google.com/detail/stackapply/pmbednfckdcfdkceghlabjccinicomnp) · Also available on Firefox Add-ons
+[Chrome Web Store](https://chromewebstore.google.com/detail/stackapply/pmbednfckdcfdkceghlabjccinicomnp) · Also available on [Firefox] (https://addons.mozilla.org/en-US/firefox/addon/stackapply/)
 
 ### CrumbWarden
 
@@ -36,7 +36,7 @@ A privacy-focused browser extension for ad and tracker blocking, cookie consent 
 
 **Engineering focus:** Declarative network request filtering, browser security and permissions, local storage, configurable privacy controls, and cross-browser releases.
 
-[Chrome Web Store](https://chromewebstore.google.com/detail/crumbwarden/kapdihhclmdnakebaanlfcoonimflkal) · Also available on Firefox Add-ons
+[Chrome Web Store](https://chromewebstore.google.com/detail/crumbwarden/kapdihhclmdnakebaanlfcoonimflkal) · Also available on [Firefox] (https://addons.mozilla.org/en-US/firefox/addon/crumbwarden/)
 
 <img src="assets/images/crumbwarden.png" alt="CrumbWarden extension showing protection, cookie handling, and popup controls" width="360">
 
@@ -58,22 +58,30 @@ An AI developer tool focused on local AI integration and agentic workflows.
 
 ## Technologies
 
-**Core**
-
-![Angular](https://img.shields.io/badge/Angular-262626?style=flat&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-262626?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-262626?style=flat&logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-262626?style=flat&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-262626?style=flat&logo=postgresql&logoColor=white)
-
-| Area | Technologies |
-| --- | --- |
-| Additional | React, Python, Express, SQL, SCSS |
-| Testing & infrastructure | Playwright, Vitest, Jest, GitHub Actions, Cloudflare |
-| AI engineering | Claude, OpenAI, Ollama, llama.cpp |
+![Angular](assets/technologies/angular.svg)
+![TypeScript](assets/technologies/typescript.svg)
+![JavaScript](assets/technologies/javascript.svg)
+![Node.js](assets/technologies/node-js.svg)
+![PostgreSQL](assets/technologies/postgresql.svg)
+![React](assets/technologies/react.svg)
+![Python](assets/technologies/python.svg)
+![Express](assets/technologies/express.svg)
+![SQL](assets/technologies/sql.svg)
+![SCSS](assets/technologies/scss.svg)
+![Playwright](assets/technologies/playwright.svg)
+![Vitest](assets/technologies/vitest.svg)
+![Jest](assets/technologies/jest.svg)
+![GitHub Actions](assets/technologies/github-actions.svg)
+![Cloudflare](assets/technologies/cloudflare.svg)
+![Claude](assets/technologies/claude.svg)
+![OpenAI](assets/technologies/openai.svg)
+![Ollama](assets/technologies/ollama.svg)
+![llama.cpp](assets/technologies/llama-cpp.svg)
 
 ## Contact
 
 For engineering roles or project inquiries, reach me at **[alex_stack012@live.com](mailto:alex_stack012@live.com)**.
+
+For custom application development or more information about available products, visit **[Full Stack Innovations (FSI)](https://fullstackinnovations.com/)**.
 
 Based in Minneapolis, Minnesota. Explore more work at **[alexstackcodes.com](https://alexstackcodes.com)**.
