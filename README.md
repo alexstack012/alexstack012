@@ -60,27 +60,38 @@ A TypeScript-based AI coding assistant designed to integrate local language mode
 
 ## Technologies
 
+**Languages & Frameworks**
+
 ![Angular](assets/technologies/angular.svg)
 ![TypeScript](assets/technologies/typescript.svg)
 ![JavaScript](assets/technologies/javascript.svg)
-![Node.js](assets/technologies/node-js.svg)
-![PostgreSQL](assets/technologies/postgresql.svg)
 ![React](assets/technologies/react.svg)
-![Python](assets/technologies/python.svg)
+![Node.js](assets/technologies/node-js.svg)
 ![Express](assets/technologies/express.svg)
+![Python](assets/technologies/python.svg)
+
+**Data, Testing & Infrastructure**
+
+![PostgreSQL](assets/technologies/postgresql.svg)
 ![SQL](assets/technologies/sql.svg)
-![SCSS](assets/technologies/scss.svg)
 ![Playwright](assets/technologies/playwright.svg)
 ![Vitest](assets/technologies/vitest.svg)
 ![Jest](assets/technologies/jest.svg)
 ![GitHub Actions](assets/technologies/github-actions.svg)
 ![Cloudflare](assets/technologies/cloudflare.svg)
+
+**AI Development**
+
 ![Claude](assets/technologies/claude.svg)
 ![OpenAI](assets/technologies/openai.svg)
 ![Ollama](assets/technologies/ollama.svg)
 ![llama.cpp](assets/technologies/llama-cpp.svg)
 
 ## Contact
+
+**Open to Software Engineering Opportunities**
+
+Interested in frontend, full-stack, backend, and AI-integrated software development positions. Remote preferred; open to hybrid and onsite opportunities near 55423 and throughout the Twin Cities, Minnesota area.
 
 For engineering roles or project inquiries, reach me at **[alex_stack012@live.com](mailto:alex_stack012@live.com)**.
 
